@@ -332,3 +332,14 @@
 @@||tiqcdn.com^$important
 (^|\.)bild\.de
 (^|\.)bildstatic\.de
+
+@@||ddownload.com^$important
+@@||rapidgator.net^$important
+@@||ip-api.com^$important
+||a.4fa4493ed3fec9015914750db39cd340.com^$important
+||telemetry.acronis.com^$important
+@@||m.exactag.com^$important
+@@||clickserve.dartsearch.net^$important
+@@||ad.doubleclick.net^$important
+||dl.acronis.com^$important
+||telemetry.acronis.com^$important
