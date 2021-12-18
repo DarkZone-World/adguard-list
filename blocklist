@@ -1,0 +1,27 @@
+# My Adguard Home blocklist
+# Customlist by Kevin
+
+# CCleaner Booster
+||ncc.avast.com^$important
+||ncc.avast.com.edgesuite.net^$important
+||ipm-provider.ff.avast.com^$important
+||shepherd.ff.avast.com^$important
+||ip-info.ff.avast.com^$important
+||analytics.ff.avast.com^$important
+||ncc.avast.com^$important
+||ncc.avast.com.edgesuite.net^$important
+||ipm-provider.ff.avast.com^$important
+||shepherd.ff.avast.com^$important
+||ip-info.ff.avast.com^$important
+||analytics.ff.avast.com^$important
+||ccleaner.tools.avcdn.net^$important
+||license-api.ccleaner.com^$important
+||verify.ccleaner.com^$important
+
+# Other Stuff
+||a.4fa4493ed3fec9015914750db39cd340.com^$important
+||telemetry.acronis.com^$important
+||dl.acronis.com^$important
+||telemetry.acronis.com^$important
+||a.cf7e4dd46d9d086e4d52505550011eaa.com^$important
+||client-telemetry.roblox.com^$important
