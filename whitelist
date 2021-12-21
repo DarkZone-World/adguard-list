@@ -344,3 +344,19 @@
 @@||track.webgains.com^$important
 @@||track.webgains.com^$important
 @@||amazon.de^$important
+
+#Whitelist some Microsoft Domains for Family Safety 
+@@||activity.windows.com^$important^$important
+@@||settings-win.data.microsoft.com^$important
+@@||vortex.data.microsoft.com^$important
+@@||web.vortex.data.microsoft.com^$important
+@@||familysafety\.live\.com^$important
+@@||fss\.live\.com^$important
+@@||login\.live\.com^$important
+@@||symbc\.com^$important
+@@||activity\.windows\.com^$important
+@@||self\.events\.data\.microsoft\.com^$important
+@@||settings-win\.data\.microsoft\.com^$important
+@@||mobile\.pipe\.aria\.microsoft\.com^$important
+@@||v20.events.data.microsoft.com^$important
+@@||v10.events.data.microsoft.com^$important
