@@ -333,6 +333,7 @@
 @@||tiqcdn.com^$important
 (^|\.)bild\.de
 (^|\.)bildstatic\.de
+@@||api.cxense.com^$important
 
 
 @@||ddownload.com^$important
