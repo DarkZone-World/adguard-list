@@ -25,6 +25,9 @@
 ||telemetry.acronis.com^$important
 ||a.cf7e4dd46d9d086e4d52505550011eaa.com^$important
 ||client-telemetry.roblox.com^$important
+||web.diagnostic.networking.aws.dev^$important
+||telemetry.yazio-analytics.com^$important
+||poki.com^$important
 
 # Roblox Block for Selina
 ||roblox.com^$client='Laptop Selina'
