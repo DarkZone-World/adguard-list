@@ -26,8 +26,8 @@
 @@||manifest.googlevideo.com^$important
 @@||redirector.googlevideo.com^$important
 @@||video-stats.l.google.com^$important
-@@||geo3.ggpht.com^$important
-@@||yt3.ggpht.com^$important
+#@@||geo3.ggpht.com^$important
+#@@||yt3.ggpht.com^$important
 # Youtube
 @@||s.youtube.com^$important
 @@||s2.youtube.com^$important
