@@ -349,6 +349,9 @@
 @@||apiservices.krxd.net^$important
 @@||marketing.net.idealo-partner.com^$important
 @@||s.click.aliexpress.com^$important
+@@||www.backmarket.de^$important
+@@||www.tiktok.com^$important
+@@||www.miweba.de^$important
 
 #Whitelist some Microsoft Domains for Family Safety 
 @@||activity.windows.com^$important^$important
