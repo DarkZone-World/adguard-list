@@ -28,6 +28,11 @@
 ||web.diagnostic.networking.aws.dev^$important
 ||telemetry.yazio-analytics.com^$important
 ||poki.com^$important
+||kvmmazmlly.duckdns.org^$important
+||dkkyfwzmao.duckdns.org^$important
+
+# Block 3uTools Logger
+||ios.pclog.3u.com^$important
 
 # Roblox Block for Selina
 ||roblox.com^$client='Laptop Selina'
@@ -35,3 +40,4 @@
 ||clientsettingscdn.roblox.qq.com^$client='Laptop Selina'
 ||setup.rbxcdn.qq.com^$client='Laptop Selina'
 ||clientsettingscdn.roblox.com^$client='Laptop Selina'
+||www.kinderspiele.de^$client='iPhone Selina',important
