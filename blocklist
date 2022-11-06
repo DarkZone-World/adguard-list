@@ -32,7 +32,7 @@
 ||dkkyfwzmao.duckdns.org^$important
 
 # Block 3uTools Logger
-||ios.pclog.3u.com^$important
+#||ios.pclog.3u.com^$important
 
 # Roblox Block for Selina
 ||roblox.com^$client='Laptop Selina'
